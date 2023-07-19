@@ -7,7 +7,7 @@ const bcrypt = require('bcryptjs');
 
 var jwt = require('jsonwebtoken');
 
-const JWT_SECRET = "Pushkarisagoodboy";
+const JWT_SECRET = "isagoodboy";
 
 const fetchuser = require('../middleware/fetchuser');
 
